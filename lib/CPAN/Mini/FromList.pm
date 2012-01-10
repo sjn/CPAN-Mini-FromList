@@ -3,7 +3,7 @@ package CPAN::Mini::FromList;
 use warnings;
 use strict;
 
-our $VERSION = '0.04';
+our $VERSION = '0.05';
 # ABSTRACT: create a minimal CPAN mirror from a list of modules you specify
 
 use CPAN::Mini;

@@ -69,7 +69,7 @@ GetOptions(
            "generate_02" => \$config{generate_02},
           ) or pod2usage(2);
 
-pod2usage(2) unless $config{local_formlist} and $config{remote};
+pod2usage(2) unless $config{local_fromlist} and $config{remote};
 
 $|++;
 $config{dirmode} &&= oct($config{dirmode});

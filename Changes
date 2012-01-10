@@ -1,5 +1,9 @@
 Revision history for CPAN-Mini-FromList
 
+0.05    2012-01-10T21:07:00+0200
+    - typo fix in cpanmini-fromlist by Salve J. Nilsen
+
+
 0.04    2012-01-03T10:01:00+0200
     - minor fix for cpanmini-fromlist by Salve J. Nilsen
 
